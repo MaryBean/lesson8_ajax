@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 14, 2017
 
 ### Student Name:  
-(First and Last Name)
+Mary Bean
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, I built an application to display information about movies. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://marybean.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. API is a set of programming instructions and standards for accessing a Web-based software application or Web tool.
+2. Developers can make HTTP requests by including method calls in the code of their applications.
+3. JSON or JavaScript Object Notation and XML is a lightweight text-based open standard designed for human- readable data interchange.
